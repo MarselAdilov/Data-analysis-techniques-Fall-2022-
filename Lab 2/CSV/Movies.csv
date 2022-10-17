@@ -1,4 +1,4 @@
-movie_id;movie_title;movie_year
-4134;Хакеры;1995
-6132;Сеть;1995
-3800;Джонни Мнемоник;1995
+movie_id,movie_title,movie_year,director_firstname,director_lastname
+4134,Хакеры,1995,Иэн,Софтли
+6132,Сеть,1995,Ирвин,Уинклер
+3800,Джонни Мнемоник,1995,Роберт,Лонго
